@@ -1,5 +1,6 @@
 # 2042347 yixin huang
 # 2044939 yi hao zhuo
 
-- link to [processori](processori.md)
-- link to [Schede_madri](schede_madri.md)
+## Componenti
+- [Processori](/componenti/processori.md)
+- [Schede Madri](/componenti/schede_madri.md)
